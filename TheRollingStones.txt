@@ -1,0 +1,44 @@
+Nom de salle : TheRollingStones
+Concert : 1
+Nombre de rangees : 30
+Nombre de colonne max: 30
+Heure : 22/6/2024 19:0
+Nom du concert : Coldplay
+Nombre de rangees A : 2
+Nombre de rangees B : 2
+Fosse : 1
+Nombre fosse : 1800
+Prix rangee A : 85
+Prix rangee B : 110
+Prix rangee C : 90
+Plan : 
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
