@@ -1,0 +1,23 @@
+Nom de salle : Queen
+Concert : 1
+Nombre de rangees : 9
+Nombre de colonne max : 10
+Heure : 20/06/2024 20:00
+Nom du concert : Taylor Swift
+Nombre de rangees A : 2
+Nombre de rangees B : 3
+Fosse : 0
+Nombre fosse : 0
+Prix rangee A : 150
+Prix rangee B : 110
+Prix rangee C : 80
+Plan : 
+oooooooooo
+oooooooooo
+oooooooooo
+ooooooooo
+ooooooooo
+ooooooooo
+oooooooo
+oooooooo
+oooooooo
