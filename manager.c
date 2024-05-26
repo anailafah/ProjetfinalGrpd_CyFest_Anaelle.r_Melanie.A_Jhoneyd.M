@@ -178,7 +178,7 @@ void creerSalle(){
     printf("(Si le nombre de rangée > 20 alors toutes les rangées auront le même nombre de sièges et max = 99\n\nEntrer le nombre total de rangées : ");
     a=scanf("%d",&s1->ntotligne);
     viderBuffer();
-  }while(s1->ntotligne<=1|| s1->ntotligne>100 || a!=1);
+  }while(s1->ntotligne<=1|| s1->ntotligne=>100 || a!=1);
 
   printf("\n");
 
