@@ -1,0 +1,35 @@
+Nom de salle : ShakaPonk
+Concert : 1
+Nombre de rangees : 21
+Nombre de colonne max: 25
+Heure : 12/05/2024 21:0
+Nom du concert : JBalvin
+Nombre de rangees A : 5
+Nombre de rangees B : 8
+Fosse : 1
+Nombre fosse : 1050
+Prix rangee A : 50
+Prix rangee B : 75
+Prix rangee C : 60
+Plan : 
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
+ooooooooooooooooooooooooo
