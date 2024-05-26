@@ -1,0 +1,24 @@
+Nom de salle : TheBeatles
+Concert : 1
+Nombre de rangées : 10
+Nombre de colonne max : 12
+Heure : 20/06/2024 13:00
+Nom du concert : Maneskin
+Nombre de rangées A : 3
+Nombre de rangées B : 4
+Fosse : 0
+Nombre fosse : 0
+Prix rangée A : 75
+Prix rangée B : 65
+Prix rangée C : 50
+Plan : 
+ooxxxoooooxx
+oooxxooxo
+xxxooooxo
+xxxooooooox
+oooxxxox
+oooxoxoxxx
+oooxxoxoxxx
+ooooooxoxoxx
+oooooxxxxxo
+ooooxxxxox
