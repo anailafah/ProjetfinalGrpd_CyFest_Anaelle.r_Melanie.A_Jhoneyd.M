@@ -1580,9 +1580,9 @@ void Festivalier(){
     Concert ct;
     do{
       printf("Entrez le nom de l'artiste (Le Nom et Prénom doivent être collés sinon l'artiste sera défini que par le premier mot indiqué): ");
-      a=scanf("%199s",ct.artiste);
+      a=scanf("%49s",ct.artiste);
       viderBuffer();
-    }while(a!=1 || strlen(ct.artiste)>200);
+    }while(a!=1 || strlen(ct.artiste)>20);
 
     printf("\n");
 
@@ -1622,9 +1622,9 @@ void Festivalier(){
     s1->fosse = '0';
     do{
       printf("Entrer le nom de la salle (Le nom de la salle doit être en un seul morceau sinon ce sera que le premier mot qui sera gardé): ");
-      e=scanf("%199s",s1->nom);
+      e=scanf("%49s",s1->nom);
       viderBuffer();
-    }while(e!=1 || strlen(s1->nom) > 200); 
+    }while(e!=1 || strlen(s1->nom) > 20); 
 
     printf("\n");
 
@@ -1633,7 +1633,7 @@ void Festivalier(){
       printf("(Si le nombre de rangée > 20 alors toutes les rangées auront le même nombre de sièges et max = 99\n\nEntrer le nombre total de rangées : ");
       a=scanf("%d",&s1->ntotligne);
       viderBuffer();
-    }while(s1->ntotligne<=1|| s1->ntotligne>100 || a!=1);
+    }while(s1->ntotligne<=1|| s1->ntotligne>=100 || a!=1);
     
     printf("\n");
 
@@ -1641,7 +1641,7 @@ void Festivalier(){
       printf("(Max Siège par colonne = 99)\n\nEntrer le nombre total de siège par rangée: ");
       b=scanf("%d",&(s1->ntotcolonne));
       viderBuffer();
-    }while(s1->ntotcolonne<=0|| s1->ntotcolonne>100||b!=1);
+    }while(s1->ntotcolonne<=0|| s1->ntotcolonne>=100||b!=1);
     
     printf("\n");
 
