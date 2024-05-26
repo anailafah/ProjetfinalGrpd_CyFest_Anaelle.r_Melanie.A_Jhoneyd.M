@@ -1,0 +1,24 @@
+Nom de salle : Phoenix
+Concert : 0
+Nombre de rangees : 10
+Nombre de colonne max : 10
+Heure : 0/0/0 0:0
+Nom du concert : 0
+Nombre de rangees A : 0
+Nombre de rangees B : 0
+Fosse : 0
+Nombre fosse : 0
+Prix rangee A : 0
+Prix rangee B : 0
+Prix rangee C : 0
+Plan : 
+oooooooooo
+ooooooooo
+ooooooooo
+ooooooooo
+oooooooo
+ooooooooo
+ooooooooo
+ooooooo
+oooooo
+ooooooo
