@@ -186,7 +186,7 @@ void creerSalle(){
     printf("(Max Siège par colonne = 99)\n\nEntrer le nombre total de siège par rangée: ");
     b=scanf("%d",&(s1->ntotcolonne));
     viderBuffer();
-  }while(s1->ntotcolonne<=0|| s1->ntotcolonne>100||b!=1);
+  }while(s1->ntotcolonne<=0|| s1->ntotcolonne=>100||b!=1);
 
   printf("\n");
 
