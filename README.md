@@ -8,6 +8,8 @@ Nous avons un fichier qui permet de stocker le nom des salles et un fichier par 
 Pour les fichiers des salles, ils sont écrits de manières à ce qu'ils aient tous la même forme.
 Dans les fichiers des salles avec fosse, les rangées qui correspondent à la fosse sont remplies avec des rangées complètes de 'o' comme s'il n'y avait pas de fosse, le nombre en fosse est égal au double du nombre de places qu'il y aurait eu sans fosse.
 
+Pour lancer le programme il faut écrire make dans le terminal, ensuite appuyez sur entrée. Puis il suffit d'écrire ./exec dans le terminal et le programma va se lancer.
+
 Pour le fonctionnement il suffit juste de suivre les indiquations qui apparaissent dans le terminal, si l'utilisateur rentre des chiffres ou caractères non-demandés il sera conduit à recommencer ou à ressaisir la valeur
 
 Bonne utilisation!
