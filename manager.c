@@ -117,7 +117,7 @@ Date creerDate(){
     printf("Entrez les minutes: ");
     a=scanf("%d",&(d.min));
     viderBuffer();
-  }while(d.min<0 || d.min>30 || a!=1);
+  }while(d.min<0 || d.min>60 || a!=1);
   printf("\n");
   return d;
 }
@@ -178,7 +178,7 @@ void creerSalle(){
     printf("(Si le nombre de rangée > 20 alors toutes les rangées auront le même nombre de sièges et max = 99\n\nEntrer le nombre total de rangées : ");
     a=scanf("%d",&s1->ntotligne);
     viderBuffer();
-  }while(s1->ntotligne<=1|| s1->ntotligne=>100 || a!=1);
+  }while(s1->ntotligne<=1|| s1->ntotligne>=100 || a!=1);
 
   printf("\n");
 
@@ -186,7 +186,7 @@ void creerSalle(){
     printf("(Max Siège par colonne = 99)\n\nEntrer le nombre total de siège par rangée: ");
     b=scanf("%d",&(s1->ntotcolonne));
     viderBuffer();
-  }while(s1->ntotcolonne<=0|| s1->ntotcolonne=>100||b!=1);
+  }while(s1->ntotcolonne<=0|| s1->ntotcolonne>=100||b!=1);
 
   printf("\n");
 
@@ -632,30 +632,25 @@ float ratioAF(Salle*s1){
   int j=0;
 
   for(int i=0;i<s1->nligneA;i++){
-
+    j=0;
     while(s1->tabsiege[i][j]=='o'||s1->tabsiege[i][j]=='x'){
       nbPlaceTot++;  
       j++;
     }
   }
-
   nbPlaceTot*=2;
-  j=0;
-
   for(int i=s1->nligneA;i<s1->ntotligne;i++){
-
+    j=0;
     while(s1->tabsiege[i][j]=='o'||s1->tabsiege[i][j]=='x'){
       nbPlaceTot++;  
       j++;
     }
   }
-
-  j=0;
 
   result=nbPlaceTot-s1->c.fosse;
 
   for(int i=s1->nligneA;i<s1->ntotligne;i++){
-
+    j=0;
     while(s1->tabsiege[i][j]=='o'||s1->tabsiege[i][j]=='x'){
       if(s1->tabsiege[i][j]=='x'){
         result+=1;
